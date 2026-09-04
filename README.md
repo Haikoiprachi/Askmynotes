@@ -48,7 +48,7 @@ Follow these steps **in order**.
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/AdarshSharma24/AskMyNotes.git
+git clone https://github.com/Haikoiprachi/Askmynotes.git
 cd AskMyNotes
 ```
 
