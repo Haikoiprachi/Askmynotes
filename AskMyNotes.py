@@ -183,7 +183,7 @@ if file is not None:
 
                 q_status.update(label="Generating answer...")
                 llm = ChatGoogleGenerativeAI(
-                    model="gemini-2.5-flash",
+                    model="gemini-3.6-flash",
                     temperature=0.3,
                     max_tokens=1000,
                     api_key=GOOGLE_API_KEY
